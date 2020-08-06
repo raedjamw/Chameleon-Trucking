@@ -29,7 +29,8 @@ used is the standard euclidian distance(straight line).It is an instance based a
 
 
 ## Next Steps
-Locate financial data
+- Locate financial data
+- Peform an appropriate clustering algorithm to classify and generate labels
  
 ## References
 
