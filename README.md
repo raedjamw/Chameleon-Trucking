@@ -30,7 +30,8 @@ Performed a Hierarchical Clustering Algorithm on the 3 features to Engineer Labe
 The KNN  Works by finding the K(specified number,3 in my case) of 'in service carriers(truckers)' which are closest to an 'out of service carriers(trucker)'.The distance
 used is the standard euclidian distance(straight line).It is an instance based algorithm because it constructs hypotheses directly from the training instances themselves. This why KNN is unsupervizied because we do not have any labels, the result we get are actually a new factor and not a label.Additionally, there is no need to consider in such specifics as the 'driving distance' etc. We are trying to determine the labels(legitimate or chameleon) at the end of this entire project.
 
-- The second algorithm used is the Hierarchical Clustering algorithm.
+- The second algorithm used is the Hierarchical Clustering Algorithm.
+
 Hierarchical cluster analysis involves creating clusters that have predominant ordering from top to bottom, i.e., a datapoint starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy, as seen below.
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/39776292/90050461-36c74e00-dca4-11ea-93cf-f6138fcc1ff8.gif)
