@@ -35,7 +35,7 @@ used is the standard euclidian distance(straight line).It is an instance based a
 Hierarchical cluster analysis involves creating clusters that have predominant ordering from top to bottom, i.e., a datapoint starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy, as seen below.
 
 <p align="center">
- <img width="460" height="650" src="https://user-images.githubusercontent.com/39776292/90050461-36c74e00-dca4-11ea-93cf-f6138fcc1ff8.gif">
+ <img width="300" height="450" src="https://user-images.githubusercontent.com/39776292/90050461-36c74e00-dca4-11ea-93cf-f6138fcc1ff8.gif">
 </p>
 
 
