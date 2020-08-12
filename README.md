@@ -17,8 +17,11 @@ I hope to help determine these companies using machine learning method methods.
 - Run KNN algorithm in Sklearn to match up companies 
 - Perform unit testing to validate the accuracy of the NN algorithm
 
-### Phase 2: Currently
-- Engineer new feature with Crash/Inspection data from USDOT
+### Phase 2: 
+- Engineered 2 new features with Crash/Inspection data from USDOT
+
+### Phase 3:
+Performed a Hierarchical Clustering Algorithm on the 3 features to Engineer Labels for Non-Chameleon and Chameleon
 
 ## Methodology
 - The algorithm used is the K Nearest Neighbour,an instance based learning algorithm.
@@ -30,7 +33,7 @@ used is the standard euclidian distance(straight line).It is an instance based a
 
 ## Next Steps
 - Locate financial data
-- Peform an appropriate clustering algorithm to classify and generate labels
+- Peform Perform appropriate classification algorithms to predict for new data
  
 ## References
 
