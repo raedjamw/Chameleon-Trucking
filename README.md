@@ -31,6 +31,7 @@ The KNN  Works by finding the K(specified number,3 in my case) of 'in service ca
 used is the standard euclidian distance(straight line).It is an instance based algorithm because it constructs hypotheses directly from the training instances themselves. This why KNN is unsupervizied because we do not have any labels, the result we get are actually a new factor and not a label.Additionally, there is no need to consider in such specifics as the 'driving distance' etc. We are trying to determine the labels(legitimate or chameleon) at the end of this entire project.
 
 - The second algorithm used is the Hierarchical Clustering algorithm.
+![Hierarchical Clust](https://github.com/raedjamw/Unsupervized-ML-Chameleon-Trucking-Project/blob/master/SomeLonelyCaterpillar-mobile.mp4)
 
 Hierarchical cluster analysisinvolves creating clusters that have predominant ordering from top to bottom, i.e., a datapoint starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy.
 
@@ -46,6 +47,10 @@ https://www.atlantainjurylawblog.com/uncategorized/what-is-a-chameleon-trucking-
 https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
 
 https://en.wikipedia.org/wiki/Instance-based_learning
+
+https://gfycat.com/somelonelycaterpillar
+
+https://www.kdnuggets.com/2019/09/hierarchical-clustering.html
 
 NOTE:SOME OF THE GEOCORDINATES DID NOT MATCH UP CORRECTLY WHEN PLOTTED.THIS IS DUE TO INACCURACIES IN THE FREE VERSION OF THE ARCGIS API.I DID MULTIPLE ITERATIONS OF DATA CLEANING AND THE PLOTS REMAINED THE SAME.
 
